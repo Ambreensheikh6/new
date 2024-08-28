@@ -1,0 +1,53 @@
+.main{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    width: 100%;
+    height: 30px;
+}
+.navbar{
+    padding: 15px;
+
+}
+nav ul li{
+    display: inline;
+    margin-left: 30rem;
+    padding-top: 0px;
+    margin-left: 20px;
+    justify-content: center;
+    padding-left: 200px;
+}
+.btn{
+    padding: 10px;
+    float: right;
+    padding-right: 15px;
+    margin-right: 50px;
+    margin-top: 5px;
+    
+}
+.text{
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+.pc2{
+    width: 400px;
+    height: 400px;
+    float: right;
+    padding-right: 100px;
+}
+.btn2{
+    background-color: black;
+    color:white;
+}
+.pc{
+    padding:5px;
+    padding-top: 2px;
+    margin: 15px;
+    margin-right: 50px;
+}
+.btn3{
+    background-color: greenyellow;
+    width: 50px;
+}
